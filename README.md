@@ -1,2 +1,2 @@
-# tv_script_generation_using_rnn
+# Text generation using Recurrent neural network (RNN) 
 Generated TV script using Recurrent neural network (RNN) 
